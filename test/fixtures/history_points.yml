@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  store: one
+  score: one
+  used_points: 1
+  recived: false
+  time: 2022-08-15 20:32:16
+
+two:
+  store: two
+  score: two
+  used_points: 1
+  recived: false
+  time: 2022-08-15 20:32:16
